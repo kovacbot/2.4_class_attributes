@@ -1,0 +1,33 @@
+/* Note: don't forget to start with a dot when selecting a class! */
+
+/* 1. Select the class name `header` and change: the font color to white and background color to black. */
+
+
+/* 2. Select the class name `section-title` and change: the font size to 25px and the color to the hex code #081d8d */
+
+
+.content {
+  margin: 15px;
+  padding: 15px;
+  background-color: #f1f1f1;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
