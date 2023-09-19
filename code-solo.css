@@ -1,15 +1,14 @@
-/* 1. Yeck, the image is way too big. Select the image's class name and adjust the width to a reasonable size. (NOTE: Check the code-solo.html file to find the image's class name) */
+/* 1. Yeck, the image is way too big. Go to line 20 in your code-solo.html file and give the img tag a class. Remember that the class name should describe the HTML element */
+
+/* 2. Select the image's class name and adjust the width to a reasonable size. Don't forget the dot before the class name! */
 
 
-/* 2. Still using the image's class name selector, give the image a border radius of 7px */
+/* 3. Still using the image's class name selector, give the image a border radius (border-radius) of 7px */
 
-/* 3. Select the body tag and change: the background color to your favorite color and the font color to one that works well with the background. */
-
-
-/* 4. Change the color for the paragraph tags to whatever color you like. */
+/* 4. Select the body tag and change: the background color (background-color) to your favorite color and the font color (color) to one that works well with the background. */
 
 
-/* 5. Optional: Choose one more HTML element to change on your page. Change it however you want. */
+/* 5. Change the color for the paragraph tags to whatever color you like (should be different from the body color). */
 
 
 /* 6. Spicy Task (extra credit): see if you can align the h1 header to the center of the page. */
