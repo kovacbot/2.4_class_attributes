@@ -1,9 +1,10 @@
 /* Note: don't forget to start with a dot when selecting a class! */
 
-/* 1. Select the class name `header` and change: the font color to white and background color to black. */
+/* 1. Go to the "code-along.html" file and give the h1 element on line 18 a class of "header" */
+/* 2. Now that we have a class, we can style it. Select the class name `header` (don't forget the dot) and change: the font color (font-color) to white and background color (background-color) to black. */
 
 
-/* 2. Select the class name `section-title` and change: the font size to 25px and the color to the hex code #081d8d */
+/* 3. Select the class name `section-title` and change: the font size to 25px and the color to the hex code #081d8d */
 
 
 .content {
